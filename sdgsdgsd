@@ -1,0 +1,44 @@
+[33mcommit 8b361fd9254e16dc97a308663df3db77a77e94ae[m
+Author: Oleg <Morozec3@gmail.com>
+Date:   Thu Mar 23 20:41:29 2017 +0200
+
+    dsgsddh
+
+[33mcommit 034185465ea056416f51f14c1cee5161999e10c5[m
+Merge: 01e773f ecef8fe
+Author: Morozec11 <Morozec3@gmail.com>
+Date:   Thu Mar 23 20:36:07 2017 +0200
+
+    Merge pull request #1 from Morozec11/task01
+    
+    Home Page
+
+[33mcommit ecef8fe1b326f5659ce82b395adab06d80b1f705[m
+Author: Oleg <Morozec3@gmail.com>
+Date:   Thu Mar 23 20:27:16 2017 +0200
+
+    sdgdfhfyfjfgj
+
+[33mcommit 01e773f9b6265100eef7ade65b6e3552c5a13644[m
+Author: Oleg <Morozec3@gmail.com>
+Date:   Thu Mar 23 19:35:41 2017 +0200
+
+    added home page
+
+[33mcommit 84092da6877f8e20619d6c694a7e844800a529f1[m
+Author: Morozec11 <Morozec3@gmail.com>
+Date:   Thu Mar 23 19:30:38 2017 +0200
+
+    Update README.md
+
+[33mcommit 0c2cb969b9a3386914ecfd869dfb2014721d0241[m
+Author: Morozec11 <Morozec3@gmail.com>
+Date:   Thu Mar 23 19:20:52 2017 +0200
+
+    Update .gitignore
+
+[33mcommit afa84115baa1e37b7b876b6fcbd83f63dceccf0f[m
+Author: Morozec11 <Morozec3@gmail.com>
+Date:   Thu Mar 23 19:19:32 2017 +0200
+
+    Initial commit
